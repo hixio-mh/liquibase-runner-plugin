@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.50</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>liquibase-runner</artifactId>
     <version>1.4.6-SNAPSHOT</version>
@@ -206,7 +206,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-jdk14</artifactId>
-            <version>1.7.28</version>
+            <version>1.7.30</version>
         </dependency>
     </dependencies>
     <build>
