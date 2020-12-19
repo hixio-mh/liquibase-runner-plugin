@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.50</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>liquibase-runner</artifactId>
     <version>1.4.6-SNAPSHOT</version>
@@ -167,7 +167,7 @@
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-            <version>8.2.2.jre8</version>
+            <version>8.4.1.jre8</version>
         </dependency>
 
         <dependency>
