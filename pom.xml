@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.50</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>liquibase-runner</artifactId>
     <version>1.4.6-SNAPSHOT</version>
@@ -137,13 +137,13 @@
         <dependency>
             <groupId>org.liquibase</groupId>
             <artifactId>liquibase-core</artifactId>
-            <version>3.8.9</version>
+            <version>4.8.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.2.10.jre7</version>
+            <version>42.2.25.jre6</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
